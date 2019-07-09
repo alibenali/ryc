@@ -1,0 +1,28 @@
+[23:48:10] [main/INFO]: Setting user: Zino_XD
+[OptiFine] (Reflector) Class not present: ModLoader
+
+(Reflector) Class not present: cpw.mods.fml.common.FMLCommonHandler[OptiFine] (Reflector) Class not present: cpw.mods.fml.client.FMLClientHandler
+[OptiFine] (Reflector) Method not present: aqo.getSkyRenderer
+[OptiFine] (Reflector) Method not present: aqo.getCloudRenderer
+[OptiFine] (Reflector) Method not present: aqo.getWeatherRenderer
+[OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[OptiFine] (Reflector) Class not present: cpw.mods.fml.common.eventhandler.EventBus
+[OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[OptiFine] (Reflector) Field not present: sa.capturedDrops
+(Reflector) Method not present: sa.shouldRenderInPass
+[OptiFine] (Reflector) Method not present: sa.canRiderInteract
+[OptiFine] 
+(Reflector) Method not present: aor.getRenderBoundingBox[OptiFine] (Reflector) Method not present: adb.onEntitySwing
+(Reflector) Method not present: rw.isCurativeItem
+(Reflector) Method not present: add.hasEffect
+[OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch[OptiFine] (Reflector) Class not present: cpw.mods.fml.client.SplashProgress
+[23:48:11] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:48:23] [Client thread/INFO]: Reloading ResourceManager: Default
+[OptiFine] *** Reloading textures ***
+[OptiFine] Resource packs: Default
+[OptiFine] Version found: E7
+DEBUG : minecraft
+Starting up SoundSystem...
+OpenAL initialized.
+[OptiFine] [OptiFine] Loading custom colors: textures/colormap/grass.png
+[OptiFine] Loading custom colors: textures/colormap/foliage.png

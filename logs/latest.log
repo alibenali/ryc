@@ -1,0 +1,10 @@
+[23:48:10] [main/INFO]: Setting user: Zino_XD
+[23:48:11] [main/INFO]: (Session ID is token:13b2f74d53590ddcf1ba01251379a29a09c4a9ae5fd98a010386d3ec920213e7:nope)
+[23:48:11] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:48:23] [Client thread/ERROR]: Couldn't initialize twitch stream
+[23:48:23] [Client thread/INFO]: Reloading ResourceManager: Default
+[23:48:24] [Sound Library Loader/INFO]: Sound engine started
+[23:48:25] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:48:26] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[23:48:59] [Client thread/INFO]: [CHAT] Saved screenshot as 2019-07-09_23.48.59.png
+[23:49:06] [Client thread/INFO]: Stopping!

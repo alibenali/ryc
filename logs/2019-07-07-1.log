@@ -1,0 +1,123 @@
+[15:04:58] [main/INFO]: Setting user: gikou
+[15:04:58] [main/INFO]: (Session ID is token:8204c0bfa28cb138449e7de687e5ac4a42727e3e7f4edd2a19fe80244e8840b1:nope)
+[15:04:58] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:04:58] [Client thread/ERROR]: Couldn't initialize twitch stream
+[15:04:58] [Client thread/INFO]: Reloading ResourceManager: Default
+[15:04:59] [Sound Library Loader/INFO]: Sound engine started
+[15:05:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:05:00] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[15:05:58] [Client thread/INFO]: Connecting to reviveyourcraft.fr, 25565
+[15:05:59] [Client thread/INFO]: [CHAT] gikou a rejoint ReviveYourCraft!
+[15:05:59] [Client thread/INFO]: [CHAT] Bienvenue, Brute gikou!
+[15:05:59] [Client thread/INFO]: [CHAT] Il y a actuellement 54 connect?s
+[15:06:07] [Texture Downloader #2/ERROR]: Couldn't download http texture: java.lang.RuntimeException: Timeout 5000
+[15:06:35] [Client thread/INFO]: [CHAT] Brute ImDemoz » teste
+[15:06:35] [Client thread/INFO]: [CHAT] Et3rNiTy s'est deconnecte de ReviveYourCraft!
+[15:06:35] [Client thread/INFO]: [CHAT] Welcome Brute lorenzo93100 to the server!
+[15:06:35] [Client thread/INFO]: [CHAT] lorenzo93100 a rejoint ReviveYourCraft!
+[15:06:35] [Client thread/INFO]: [CHAT] Daityos a rejoint ReviveYourCraft!
+[15:06:35] [Client thread/INFO]: [CHAT] chris93500 s'est deconnecte de ReviveYourCraft!
+[15:06:35] [Client thread/INFO]: [CHAT] Fanda41 s'est deconnecte de ReviveYourCraft!
+[15:06:35] [Client thread/INFO]: [CHAT] furosse4 s'est deconnecte de ReviveYourCraft!
+[15:06:35] [Client thread/INFO]: [CHAT] NJunkin a rejoint ReviveYourCraft!
+[15:06:35] [Client thread/INFO]: [CHAT] Rachmanisky a rejoint ReviveYourCraft!
+[15:06:35] [Client thread/INFO]: [CHAT] Lewden s'est deconnecte de ReviveYourCraft!
+[15:06:35] [Client thread/INFO]: [CHAT] Teoleroc2b s'est deconnecte de ReviveYourCraft!
+[15:06:35] [Client thread/INFO]: [CHAT] LaulauZim s'est deconnecte de ReviveYourCraft!
+[15:06:35] [Client thread/INFO]: [CHAT] Karpath a rejoint ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] MrGaryQC s'est deconnecte de ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] MinigoZk a rejoint ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Welcome Brute MinigoZk to the server!
+[15:06:36] [Client thread/INFO]: [CHAT] Hyrzow_ s'est deconnecte de ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] grossebaffe s'est deconnecte de ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Hitek s'est deconnecte de ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Biscotte_cracker has just earned the achievement [Getting Wood]
+[15:06:36] [Texture Downloader #4/ERROR]: Couldn't download http texture: java.net.SocketTimeoutException: connect timed out
+[15:06:36] [Client thread/INFO]: [CHAT] Yura a rejoint ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Bambouu s'est deconnecte de ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Felicien2B s'est deconnecte de ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Ateor a rejoint ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] TheBlackNnightt has just earned the achievement [Taking Inventory]
+[15:06:36] [Client thread/INFO]: [CHAT] plastike has just earned the achievement [Taking Inventory]
+[15:06:36] [Client thread/INFO]: [CHAT] La_Saw6 s'est deconnecte de ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] RoiYanou a rejoint ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Daityos s'est deconnecte de ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Igieog a rejoint ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Welcome Brute Igieog to the server!
+[15:06:36] [Client thread/INFO]: [CHAT] NJunkin s'est deconnecte de ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Teudyy s'est deconnecte de ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Sowayy s'est deconnecte de ReviveYourCraft!
+[15:06:36] [Client thread/INFO]: [CHAT] Karpath s'est deconnecte de ReviveYourCraft!
+[15:06:37] [Client thread/INFO]: [CHAT] Axurios a rejoint ReviveYourCraft!
+[15:06:39] [Client thread/INFO]: [CHAT] Lenday s'est deconnecte de ReviveYourCraft!
+[15:06:41] [Texture Downloader #6/ERROR]: Couldn't download http texture: java.net.SocketTimeoutException: connect timed out
+[15:06:50] [Texture Downloader #8/ERROR]: Couldn't download http texture: java.lang.RuntimeException: Timeout 5000
+[15:06:52] [Texture Downloader #3/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:52] [Texture Downloader #7/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:52] [Texture Downloader #9/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:52] [Texture Downloader #11/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:53] [Texture Downloader #21/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:53] [Texture Downloader #25/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:53] [Texture Downloader #29/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:53] [Texture Downloader #23/ERROR]: Couldn't download http texture: java.net.SocketTimeoutException: Read timed out
+[15:06:53] [Texture Downloader #31/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:54] [Texture Downloader #39/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:54] [Texture Downloader #43/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:54] [Texture Downloader #37/ERROR]: Couldn't download http texture: java.net.SocketTimeoutException: Read timed out
+[15:06:54] [Texture Downloader #49/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:55] [Texture Downloader #47/ERROR]: Couldn't download http texture: java.net.SocketTimeoutException: Read timed out
+[15:06:55] [Texture Downloader #57/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:55] [Texture Downloader #59/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:55] [Texture Downloader #78/ERROR]: Couldn't download http texture: java.net.SocketTimeoutException: Read timed out
+[15:06:56] [Texture Downloader #61/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:56] [Texture Downloader #63/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:56] [Texture Downloader #66/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:57] [Texture Downloader #74/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:57] [Texture Downloader #76/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:57] [Texture Downloader #80/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[15:06:58] [Texture Downloader #10/ERROR]: Couldn't download http texture: java.lang.RuntimeException: Timeout 5000
+[15:07:03] [Texture Downloader #12/ERROR]: Couldn't download http texture: java.lang.RuntimeException: Timeout 5000
+[15:07:05] [Client thread/FATAL]: Unreported exception thrown!
+java.lang.NullPointerException
+	at net.minecraft.ryc.RYCApi.getUserInfo(Unknown Source) ~[minecraft.jar:?]
+	at brj.loadSkin(Unknown Source) ~[minecraft.jar:?]
+	at blg.<init>(Unknown Source) ~[minecraft.jar:?]
+	at bll.<init>(Unknown Source) ~[minecraft.jar:?]
+	at bjb.a(Unknown Source) ~[minecraft.jar:?]
+	at gb.a(Unknown Source) ~[minecraft.jar:?]
+	at gb.a(Unknown Source) ~[minecraft.jar:?]
+	at ej.a(Unknown Source) ~[minecraft.jar:?]
+	at bje.e(Unknown Source) ~[minecraft.jar:?]
+	at bao.p(Unknown Source) ~[minecraft.jar:?]
+	at bao.ak(Unknown Source) ~[minecraft.jar:?]
+	at bao.f(Unknown Source) [minecraft.jar:?]
+	at net.minecraft.client.main.Main.main(Unknown Source) [minecraft.jar:?]
+[15:23:50] [main/INFO]: Setting user: gikou
+[15:23:50] [main/INFO]: (Session ID is token:8204c0bfa28cb138449e7de687e5ac4a42727e3e7f4edd2a19fe80244e8840b1:nope)
+[15:23:51] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:23:52] [Client thread/ERROR]: Couldn't initialize twitch stream
+[15:23:52] [Client thread/INFO]: Reloading ResourceManager: Default
+[15:23:53] [Sound Library Loader/INFO]: Sound engine started
+[15:23:53] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:23:54] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[15:27:03] [Client thread/INFO]: Connecting to reviveyourcraft.fr, 25565
+[15:27:04] [Client thread/INFO]: [CHAT] gikou a rejoint ReviveYourCraft!
+[15:27:04] [Client thread/INFO]: [CHAT] Bienvenue, Brute gikou!
+[15:27:04] [Client thread/INFO]: [CHAT] Il y a actuellement 59 connect?s
+[15:27:09] [Texture Downloader #2/ERROR]: Couldn't download http texture: java.lang.RuntimeException: Timeout 5000
+[15:27:35] [Client thread/INFO]: [CHAT] MohaMed_YT a rejoint ReviveYourCraft!
+[15:39:47] [main/INFO]: Setting user: gikou
+[15:39:49] [main/INFO]: (Session ID is token:8204c0bfa28cb138449e7de687e5ac4a42727e3e7f4edd2a19fe80244e8840b1:nope)
+[15:39:22] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:39:33] [Client thread/ERROR]: Couldn't initialize twitch stream
+[15:39:33] [Client thread/INFO]: Reloading ResourceManager: Default
+[15:39:35] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:39[15:39:35] [Client thread/ERROR]: Couldn't initialize twitch strea[15:39:37] [Sound Library Loader/INFO]: Sound engine started
+ Default
+[15:39:39] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:39:40] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[15:39:40] [Sound Library Loader/INFO]: Sound engine started
+ Default
+[15:39:42] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:39:42] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[15:39:42] [Sound Library Loader/INFO]: Sound engine started
